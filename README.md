@@ -9,7 +9,9 @@ Documentation for [demiourgoi](https://github.com/demiourgoi) projects
 
 ## Linoleum
 
-- Current development version: [staging](./doc/Linoleum/staging/index.html)
+- Current development version:
+  - [javadoc](./doc/Linoleum/staging/javadoc/index.html)
+  - [scaladoc](./doc/Linoleum/staging/scala-2.13/api/index.html)
 
 ## flink-check
 
